@@ -1,0 +1,27 @@
+module.exports = Object.freeze({
+    DataBaseError: "DB connection fail",
+    REQUIREDFIELDS: "Please Fill all required Fields",
+    ALREADY_REGISTERED: "Email already Register, Try to login",
+    HASHING_PASSWORD: "Hashing password Error",
+    REGISTER_USER_Sucess: " Register Successfully",
+    REGISTER_USER: " Registration Failed",
+    NOT_FOUND: " Not Found",
+    PASSWORD_NOT_MATCH: "Password Not Match",
+    lOGIN_SUCCESS: "login Successfully",
+    BAD_REQUEST: "Bad Request",
+    ERROR_In_Registeration: "Error while Registration",
+    NOT_REGISTER: " Not register",
+    REGISTER_: "Register Successfully",
+    SOMETHINGWENTWRONG: "Something went wrong getting Student record from DB",
+    RECORD_FOUND: "Record Found Successfully",
+    NO_RECORD_FOUND: "No Record Found ",
+    SERVER_ERROR: "Server Erorr No Record Found",
+    UPDATE_STUDENT: "Record Updated",
+    NOT_EMPTY: "Data to update can not be empty!",
+    ERROR_UPDATE: "Error updating Student",
+    DELETED_SUCCESS: "Student was deleted successfully!",
+    COULD_NOT_DELETED: "Could not delete Student",
+    RETRIEVE_SUCCESS: "Retrieve Successfully",
+    RETRIEVE_NOT_SUCCESS: "Retrieve Un-Successfully"
+
+})
